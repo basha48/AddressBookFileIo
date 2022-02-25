@@ -1,0 +1,8 @@
+First Name : Aravind
+Last Name  : Setty
+Address :xyzstreet
+City : Kurnool
+State :AndhraPradesh
+zip : 518222
+phone number :9858848448
+Email : xyz@gmail.com
