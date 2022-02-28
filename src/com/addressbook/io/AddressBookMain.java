@@ -7,6 +7,10 @@ public class AddressBookMain {
 	 ad.storeContactsInAddressBookFile();
 	 ad.ReadContactsInAddressBookFile();
 	 ad.CheckFileExists();
+	 ad.writeCsvFileLineByLine();
+	 ad.writeJsonData();
+	 //ad.readDataFromCsvFile();
+	 //ad.readJsonFile();
 	}
 
 }
